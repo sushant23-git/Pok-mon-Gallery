@@ -4,6 +4,10 @@
 Welcome to the Pokémon Gallery, a beautifully crafted and fully responsive web application for Pokémon enthusiasts. This project provides an immersive experience to browse, search, and explore detailed information for the first 1,000 Pokémon, fetching all data in real-time from the public PokéAPI.
 
 
+https://github.com/user-attachments/assets/4292a5a5-59f2-46fc-9623-f89bd8ea2034
+
+
+
 ---
 
 ## 1. Project Overview
